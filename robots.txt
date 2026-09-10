@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yerim21c.github.io/snippets-7kov1e/sitemap.xml
